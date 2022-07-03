@@ -1,0 +1,7 @@
+H:\pra_lc\lc_01\lc_01\bin\Debug\lc_01.exe.config
+H:\pra_lc\lc_01\lc_01\bin\Debug\lc_01.exe
+H:\pra_lc\lc_01\lc_01\bin\Debug\lc_01.pdb
+H:\pra_lc\lc_01\lc_01\obj\Debug\lc_01.csproj.CoreCompileInputs.cache
+H:\pra_lc\lc_01\lc_01\obj\Debug\lc_01.exe
+H:\pra_lc\lc_01\lc_01\obj\Debug\lc_01.pdb
+H:\pra_lc\lc_01\lc_01\obj\Debug\lc_01.csproj.AssemblyReference.cache
