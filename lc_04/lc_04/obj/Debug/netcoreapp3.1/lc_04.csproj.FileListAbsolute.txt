@@ -1,0 +1,14 @@
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.exe
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.deps.json
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.runtimeconfig.json
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.runtimeconfig.dev.json
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.dll
+H:\pra_lc\lc_04\lc_04\bin\Debug\netcoreapp3.1\lc_04.pdb
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.csproj.AssemblyReference.cache
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.GeneratedMSBuildEditorConfig.editorconfig
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.AssemblyInfoInputs.cache
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.AssemblyInfo.cs
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.csproj.CoreCompileInputs.cache
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.dll
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.pdb
+H:\pra_lc\lc_04\lc_04\obj\Debug\netcoreapp3.1\lc_04.genruntimeconfig.cache
